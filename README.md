@@ -78,10 +78,10 @@ print(lr_tha)
 ## 复现图表说明
 | 图号 | 内容 | 对应文件 |
 |------|------|----------|
-| 图1 | 铝饱和度随石灰用量的变化（Kamprath） | `figure/plot1.png` |
+| 图1 | 铝饱和度随石灰用量的变化（Kamprath) | `figure/plot1.png` |
 | 图2 | Cochrane 公式预测 vs 实际石灰用量 | `figure/plot2.png` |
 | 图3 | NuMaSS 公式的两种解释对比 | `figure/plot4.png` |
-| 图4 | Cochrane 与 NuMaSS 预测精度对比 | `figure/plot3.png` |
+| 图4 | Cochrane 与 NuMass 预测精度对比 | `figure/plot3.png` |
 | 图5 | 铝饱和度与石灰用量的简化关系 | `figure/plot5.png` |
 
 ---
